@@ -7,7 +7,7 @@
 * mardi 12 mai = talks
 * mercredi 13 mai = forum ouvert ("unconf")
 
-## Sessions
+## Jour 1 : sessions
 
 ### 08h30 : acceuil
 
@@ -17,9 +17,15 @@
 
 Jonathan Laurent
 
-TODO
+[slides](https://lab.frogg.it/cus_Trg6fXkMq3nqwI/kata/-/blob/main/Vers%20TDD%20et%20au%20del%C3%A0%20!%20-%20Slidev%20v1.1.pdf?ref_type=heads)
 
-### 10h40 : ???
+Technique du Double Dragon ("TDD") : pour faire passer les tests, ajouter chaque cas particulier dans un if. Quand arrive la phase de refacto, prendre deux branches if, les refactorer progressivement pour les faire converger sur le même code (à l'intérieur du if), puis enlever un (devenu redondant puisque même code et early return). 
+
+TODO read:
+* https://en.wikipedia.org/wiki/Transformation_Priority_Premise
+* https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
+
+### 10h40 : salle "couloir"
 
 ### 11h35 : Et Craft, la chaise !
 
@@ -46,5 +52,7 @@ Thomas Pierrain
 ### 16h45 : ???
 
 ### 17h40 : conclusion
+
+## Jour 2 : unconf
 
 ### 17h50 : apéro

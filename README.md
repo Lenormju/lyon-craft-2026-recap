@@ -39,7 +39,9 @@ Didier Erin + Laure Champel
 
 Alix Oliphe-Gaillard
 
-### 14h30 : Kebab Kata
+TODO replay
+
+### 14h00 : Kebab Kata
 
 Romeu Moura
 
@@ -47,12 +49,12 @@ Romeu Moura
 
 Thomas Pierrain
 
-### 16h10 : goûter
+TODO replay
 
-### 16h45 : ???
+### 16h10 : goûter
 
 ### 17h40 : conclusion
 
-## Jour 2 : unconf
-
 ### 17h50 : apéro
+
+## Jour 2 : unconf
